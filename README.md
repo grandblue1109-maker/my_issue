@@ -30,7 +30,7 @@ img_flip.save(output_image)
 ```
 ・利用例
 ```python
-　python3 flip.py input.jpg output.jpg
+python3 flip.py input.jpg output.jpg
 ```
 　
 ### 3.2 実行結果
